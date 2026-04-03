@@ -51,7 +51,7 @@
         qwerty {
             display-name = "QWERTY";
             bindings = <
-&kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp MINUS  &kp ESC  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT  &tog 6  &lt 2 BACKSPACE  &lt 4 DEL  &lt 5 RET  &lt 3 SPACE  &lt 7 SEMI
+&kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp MINUS  &kp ESC  &hml LGUI A  &hml LALT S  &hml LCTRL D  &hml LSHFT F  &kp G  &kp H  &hmr RSHFT J  &hmr RCTRL K  &hmr RALT RS(L)  &hmr RS(RGUI) RS(SEMI)  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT  &tog 6  &lt 2 BACKSPACE  &lt 4 DEL  &lt 5 RET  &lt 3 SPACE  &lt 7 SEMI
             >;
         };
 
