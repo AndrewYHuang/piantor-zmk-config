@@ -69,7 +69,7 @@
         left {
             display-name = "LEFT";
             bindings = <
-&trans  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp N7  &kp N8  &kp N9  &kp RPAR  &trans  &trans  &none  &none  &kp LS(LPAR)  &kp LS(RPAR)  &none  &kp MINUS  &kp N4  &kp N5  &kp N6  &kp BSLH  &trans  &trans  &none  &none  &none  &none  &none  &kp UNDER  &kp N1  &kp N2  &kp N3  &kp PIPE  &trans  &none  &none  &none  &none  &none  &none
+&trans  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp N7  &kp N8  &kp N9  &kp RPAR  &trans  &trans  &hml LGUI LGUI  &hml LALT LALT  &hml LCTRL LPAR  &hml LSHFT RPAR  &kp NUBS  &kp NON_US_HASH  &hmr RSHFT N4  &hmr RCTRL N5  &hmr RIGHT_ALT N6  &hmr RGUI BSLH  &trans  &trans  &none  &none  &none  &none  &none  &kp UNDER  &kp N1  &kp N2  &kp N3  &kp PIPE  &trans  &none  &none  &none  &none  &none  &none
             >;
         };
 
