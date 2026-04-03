@@ -62,7 +62,7 @@
         colemak {
             display-name = "COLEMAK";
             bindings = <
-&kp TAB  &kp Q  &kp W  &kp F  &kp P  &kp B  &kp J  &kp L  &kp U  &kp Y  &kp SEMI  &kp MINUS  &kp ESC  &hml LGUI A  &hml LALT R  &hml LCTRL S  &hml LSHFT T  &kp G  &kp M  &hmr RSHFT N  &hmr RS(RCTRL) RS(E)  &hmr RALT RS(I)  &hmr RS(RGUI) RS(O)  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp D  &kp V  &kp K  &kp H  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT  &tog 6  &lt 2 BACKSPACE  &lt 4 DEL  &lt 5 RET  &lt 3 SPACE  &lt 7 SEMI
+&kp TAB  &kp Q  &kp W  &kp F  &kp P  &kp B  &kp J  &kp L  &kp U  &kp Y  &kp SEMI  &kp MINUS  &kp ESC  &hml LGUI A  &hml LALT R  &hml LCTRL S  &hml LSHFT T  &kp G  &kp M  &hmr RSHFT N  &hmr RCTRL E  &hmr RALT I  &hmr RGUI O  &kp SQT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp D  &kp V  &kp K  &kp H  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT  &tog 6  &lt 2 BACKSPACE  &lt 4 DEL  &lt 5 RET  &lt 3 SPACE  &lt 7 SEMI
             >;
         };
 
