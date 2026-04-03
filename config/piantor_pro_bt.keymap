@@ -15,8 +15,8 @@
 };
 
 / {
-     {
-        compatible = "zmk,";
+     keymap {
+        compatible = "zmk,keymap";
 
         qwerty {
             display-name = "QWERTY";
